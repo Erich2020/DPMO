@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MiscabarApp</string>
+    <!-- Generales -->
+
+    <!-- Registro Usuario -->
+    <string name="lbl_Nombre">Nombre</string>
+    <string name="lblUsuario">Usuario</string>
+    <string name="lbl_Contrasena">Contraseña</string>
+    <string name="lbl_Confirmar_Pwd">Confirmar Contraseña</string>
+    <string name="lbl_btnRegistrar">Registrarse</string>
+    
+    <!-- Registro Producto -->
+    <string name="lbl_Codigo">Código del Producto</string>
+    <string name="lbl_Descripcion">Descripción del Producto</string>
+    <string name="lcl_presentacion">Presentación</string>
+    <string name="lbl_rbPiezas">Pezas/Paquete</string>
+    <string name="lbl_rbGranel">Granel</string>
+    <string name="lbl_rbOtro">Otro</string>
+    <string name="lbl_Costo">Costo del Producto</string>
+    <string name="lbl_precio">Precio Unitario del Producto</string>
+    <string name="lbl_Marca">Marca</string>
+    <string name="btnCrear">Crear Producto</string>
+    <string name="btnCancelar">C a n c e l a r</string>
+    <string name="lbl_img_desc">logo</string>
+    <string name="Titulo">R e g i s t r a r   P r o d u c t o</string>
+    <!-- Inicio Sesion -->
+    <string name="lbl_infoOlvido">Se te Olvido tu Contraseña. Consulta a tu Administrador</string>
+    <string name="lbl_Salir">S a l i r</string>
+    <string name="lbl_infoRegistrar">¿No tiene una cuenta?</string>
+    <string name="lbl_Registrarse">R e g i s t r a r s e</string>
+    <string name="lbl_hintPwd">Ingrese su Contraseña</string>
+    <string name="lbl_HintUsuario">Ingrese su Usuario</string>
+    <string name="lbl_inicioSesion">Iniciar Sesión</string>
+    <string name="tituloPrincipal">MiscAbar App</string>
+</resources>
