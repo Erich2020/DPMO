@@ -1,0 +1,27 @@
+
+.bg-azulClaro{
+    background-color: rgb(201, 0, 44);
+    margin:auto; 
+}
+.bg-azulObscuro{
+    background-color: rgb(5, 60, 84);
+    margin:auto;
+}
+
+.bg-gris{
+    background-color: grey;
+    margin:auto;
+}
+
+
+.text-color-blueDemon{
+    color: rgb(254, 254, 254);
+}
+.text-color-Dark{
+    color: rgb(0, 0, 0);
+}
+
+.br-GreenYellow{
+    border: solid greenyellow;
+    margin:auto;
+}
